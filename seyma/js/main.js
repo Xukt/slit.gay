@@ -4,7 +4,7 @@ const nameData = {
       content: 'i heart xkt <3. sey_ma on discord',
     },
     restrict: {
-      title: '@xkt',
+      title: '@xkt<3',
       content: 'i heart seyma <3 xkt on discord',
     },
   };
