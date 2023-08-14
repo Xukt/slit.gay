@@ -5,7 +5,7 @@ const nameData = {
     },
     restrict: {
       title: '@daddysam',
-      content: 'what do you want on here ?',
+      content: 'daddysam',
     },
     axx: {
       title: '@seyma',
