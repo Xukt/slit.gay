@@ -16,8 +16,9 @@ const nameData = {
   
       const { title, content } = nameData[name];
   
-      const windowElement = document.createElement('div');
-      windowElement.classList.add('window');
+     <script>
+function myFunction() {
+  location.replace("https://www.w3schools.com")
   
       const windowHeader = document.createElement('div');
       windowHeader.classList.add('window-header');
