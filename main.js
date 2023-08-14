@@ -26,7 +26,7 @@ const nameData = {
       content: "Dayo rhymes with Mayo",
     },
   };
-  // Hello from salmon to anyone skidding this site :D
+  // Hello from xkt to anyone skidding this site :D
   const nameLinks = document.querySelectorAll('.names a');
   nameLinks.forEach(link => {
     link.addEventListener('click', () => {
