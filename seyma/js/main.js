@@ -1,7 +1,7 @@
 const nameData = {
     malice: {
       title: '@seyma',
-      content: 'i heart xkt <3. sey_ma on discord',
+      content: 'i heart xkt<3. sey_ma on discord',
     },
     restrict: {
       title: '@xkt<3',
